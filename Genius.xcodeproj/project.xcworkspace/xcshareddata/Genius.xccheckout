@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B94CDA3A-CB0D-40AB-A2BF-EFEED64AC863</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Genius</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C0A0DAB5AD3F1BE71414D85DED60DEE72860625B</key>
+		<string>https://github.com/alissonselistre/BEPiD-Genius</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Genius.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C0A0DAB5AD3F1BE71414D85DED60DEE72860625B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alissonselistre/BEPiD-Genius</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C0A0DAB5AD3F1BE71414D85DED60DEE72860625B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0A0DAB5AD3F1BE71414D85DED60DEE72860625B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Genius</string>
+		</dict>
+	</array>
+</dict>
+</plist>
